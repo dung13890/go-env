@@ -1,4 +1,4 @@
-FROM golang
+FROM golang:latest
 
 MAINTAINER Dao Anh Dung <dung13890@gmail.com>
 
